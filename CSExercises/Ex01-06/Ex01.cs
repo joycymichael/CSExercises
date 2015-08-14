@@ -10,7 +10,12 @@ namespace CSExercises
     {
         public static void Main(string[] args)
         {
-            
+            string n, name;
+            Console.WriteLine("Enter Your Name : ");
+            n = Console.ReadLine();
+            name = n.ToUpper();
+            Console.WriteLine("\n\t\t**GOOD MORNING " + name + "**");
+            Console.ReadLine();
         }
     }
 }
