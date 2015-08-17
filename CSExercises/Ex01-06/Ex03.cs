@@ -10,7 +10,15 @@ namespace CSExercises
     {
         public static void Main(string[] args)
         {
+           
+            Console.WriteLine("SQUARE OF DOUBLE PRECISION NEMBER");
+            Console.Write("Enter a number : ");
+            double d = Convert.ToDouble(Console.ReadLine());
+            double c=d*d;
+            Console.WriteLine("Answer is " + c);
+           
             
+
         }
     }
 }
