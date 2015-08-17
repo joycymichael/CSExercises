@@ -10,7 +10,7 @@ namespace CSExercises
     {
         public static void Main(string[] args)
         {
-            double c1;
+            
             int d3;
             Console.WriteLine("\n\t\t\tABC TAXI COMPANY BILL");
             Console.Write("\n\tEnter The Distance : ");
