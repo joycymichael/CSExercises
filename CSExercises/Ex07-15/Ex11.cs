@@ -10,7 +10,7 @@ namespace CSExercises
     {
         public static void Main(string[] args)
         {
-            double c1;
+           // double c1;
             Console.WriteLine("\n\t\t\tABC TAXI COMPANY BILL");
             Console.Write("\n\tEnter The Distance : ");
             double d = Convert.ToDouble(Console.ReadLine());
